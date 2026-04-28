@@ -1,0 +1,18 @@
+1.saya akan membuat suatu program berlaku la seperti dosen yang sedang mengerjakan program ini 
+program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+
+saya akan prompt dulu lalu akan saya berikan aba aba agar kamu bisa membuat program nya
+
+2.jadi program nya itu buat menghitung stok barang di gudang jadi barang nya disuusun di rak kayak di gambar bentuk nya bertingkat dari depan ke belakang misal nya ada 22 pcs,85 pcs,5pcs,120 pcs itu sesuai urutan atau posisi di rak tunggu ya
+
+3. program akan menerima input yaitu jumlah total dat,deret stok,kode kategori barang 
+1. data pada indeks ganjil,2 data pada indeks genap,jadi tugas program menjumlahkan hanya stok barang yang sesuai dengan kategori yang di minta ,output nya du tampilkan itu menamilkan stok barang sesuai kategori ,oiya gunakan hanya  data pada soal,jangan memberikan asumsi di luar yng di berikan dan proses data sesuai inputan
+
+dalam bahasa java
+oke mulai membuat kode
+
+4. oiya sempurnakan kode dengan diawali ini a
+5. package driver; public class Driver2 { public static void main(String[] args) { } }
+
+6.saya melupakan model nya package model; public class Model2 { }
+7. 

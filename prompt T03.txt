@@ -1,0 +1,7 @@
+1.kali ini saya akan membuat Buatlah sebuah sistem yang mendukung operasional kafetaria IT Del. saya mengambil contoh pemesanan makanan di KL ,kita dpat memesan makanan dan minuman sampai sejauh ini saya belum mendapatkan ide apakah kamu memiliki ide?
+2. oke berarti buat program sistem pemesanan kafetaria sederhana ya, program menampilkan daftar menu makanan dan minuman beserta harga dan kategori nya,jangan buat program sampai saya suruh buat kode ,saya masih mau nge prompt
+3. kita bisa memilih menu berdasarkan nomor ,memasukkan jumlah pesanan dan dapat memesan lebih dari 1 item,tunggu
+4. program harus menampilkan semua pesanan ketika sudah kita sudah selesai menentukan pesanan ynag di tampilkan adalah penghitungan subtotal tiap item,serta totoal ahrga dari keseluruhan item ,setelah selesai tampilkan lah struk nya berisi dafta pesanan dan total pembayaran tunggu
+5. buat model package model; public class Model3 { } langsung buat dengan ini,agar tidak ulang ulang lagi
+6. 1 lagi saya kelupaan driver nya package driver; public class Driver3 { public static void main(String[] args) { } }
+7. 
